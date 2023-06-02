@@ -1,0 +1,5 @@
+scripts/test*
+scripts/bak*
+scripts/config*
+tables/test*
+tables/bak*
